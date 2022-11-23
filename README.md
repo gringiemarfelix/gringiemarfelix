@@ -12,23 +12,23 @@ I'm a Full-Stack Developer and I like coffee.
 
 ![SkillsBadge](my-skills.svg)
 
-**Front End**
+### Front End
 
 ![FrontEnd](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,bootstrap,tailwind,jquery,vite,webpack)
 
-**Back End**
+### Back End
 
 ![BackEnd](https://skillicons.dev/icons?i=php,mysql,laravel,linux)
 
-**Mobile**
+### Mobile
 
 ![Mobile](https://skillicons.dev/icons?i=react,androidstudio)
 
-**Cloud**
+### Cloud
 
 ![Cloud](https://skillicons.dev/icons?i=gcp)
 
-**Tools**
+### Tools
 
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
