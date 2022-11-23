@@ -1,8 +1,16 @@
+<!--
 ## Hi, I'm Gringiemar Felix
 
 I'm a Full-Stack Developer and I like coffee.
+-->
 
-### My Skills
+![Header](header.png)
+
+---
+
+<!-- ### My Skills -->
+
+![SkillsBadge](my-skills.svg)
 
 **Front End**
 
@@ -24,12 +32,16 @@ I'm a Full-Stack Developer and I like coffee.
 
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
-### I speak:
+<!-- ### I speak: -->
+![I Speak](i-speak.svg)
 - 🇵🇭 Filipino
 - 🇺🇸 English
 
-### Links:
+<!-- ### Links: -->
+![I Speak](my-links.svg)
 - [Portfolio](https://gringiemarfelix.com/)
 - [Curriculum Vitae](https://gringiemarfelix.com/cv)
 
+<!-- Header by https://leviarista.github.io/github-profile-header-generator/ -- >
 <!-- Icons by https://github.com/tandpfun/skill-icons -->
+<!-- For the badge https://forthebadge.com/generator/ -- >
