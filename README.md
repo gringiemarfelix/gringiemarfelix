@@ -41,6 +41,7 @@ I'm a Full-Stack Developer and I like coffee.
 ![I Speak](my-links.svg)
 - [Portfolio](https://gringiemarfelix.com/)
 - [Curriculum Vitae](https://gringiemarfelix.com/cv)
+- [LinkedIn](https://www.linkedin.com/in/gringiemarfelix)
 
 <!-- Header by https://leviarista.github.io/github-profile-header-generator/ -- >
 <!-- Icons by https://github.com/tandpfun/skill-icons -->
