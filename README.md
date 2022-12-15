@@ -14,7 +14,7 @@ I'm a Full-Stack Developer and I like coffee.
 
 ### Front End
 
-![FrontEnd](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,bootstrap,tailwind,jquery,vite,webpack)
+![FrontEnd](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,bootstrap,tailwind,jquery,vite,webpack,materialui)
 
 ### Back End
 
@@ -30,7 +30,7 @@ I'm a Full-Stack Developer and I like coffee.
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode)
+![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode,md,powershell,bash)
 
 <!-- ### I speak: -->
 ![I Speak](i-speak.svg)
